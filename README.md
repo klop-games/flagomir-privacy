@@ -67,7 +67,7 @@ Game Center можно не использовать: вкладка «Семь�
 
 По любым вопросам: [klopovka.games@gmail.com](mailto:klopovka.games@gmail.com)
 
-«Флагомир» — детская игра-викторина про флаги мира. Разработчик: Никита Буртный.
+«Флагомир» — детская игра-викторина про флаги мира. Разработчик: Klop Games.
 
 ---
 
@@ -132,7 +132,7 @@ The current revision is dated 12 September 2026. The first revision took effect 
 
 For any questions: [klopovka.games@gmail.com](mailto:klopovka.games@gmail.com)
 
-Flagomir is a quiz game about the flags of the world. Developer: Nikita Burtnyi.
+Flagomir is a quiz game about the flags of the world. Developer: Klop Games.
 
 ---
 
@@ -197,7 +197,7 @@ La revisión vigente es del 12 de septiembre de 2026. La primera revisión entr�
 
 Para cualquier consulta: [klopovka.games@gmail.com](mailto:klopovka.games@gmail.com)
 
-Flagomir es un juego de preguntas sobre las banderas del mundo. Desarrollador: Nikita Burtnyi.
+Flagomir es un juego de preguntas sobre las banderas del mundo. Desarrollador: Klop Games.
 
 ---
 
@@ -262,4 +262,4 @@ Die geltende Fassung ist vom 12. September 2026. Die erste Fassung galt ab dem 1
 
 Bei Fragen: [klopovka.games@gmail.com](mailto:klopovka.games@gmail.com)
 
-Flagomir ist ein Quizspiel über die Flaggen der Welt. Entwickler: Nikita Burtnyi.
+Flagomir ist ein Quizspiel über die Flaggen der Welt. Entwickler: Klop Games.
